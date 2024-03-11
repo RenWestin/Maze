@@ -61,3 +61,10 @@ To run the script, simply execute the Python file. The maze generation process w
 Feel free to explore and modify the script to suit your preferences and experiment with different maze generation algorithms or visual styles.
 
 *Note: The generated maze does not guarantee solvability, and the focus is on the visual representation rather than creating a playable maze.*
+
+### Example graphic
+
+-------------------
+
+![maze](https://github.com/RenWestin/Maze/assets/161345042/a741bcd2-2332-43b1-9014-a01c54307b22)
+
