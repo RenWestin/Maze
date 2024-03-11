@@ -1,14 +1,14 @@
-Maze Generation with Turtle
+# Maze Generation with Turtle
 
 ===========================
 
-Overview
+## Overview
 
 --------
 
 This Python script uses the Turtle graphics library to generate a maze using the depth-first search algorithm. The maze is drawn on the screen, showcasing the intricate patterns created during the maze generation process.
 
-Maze Generation Algorithm
+### Maze Generation Algorithm
 
 -------------------------
 
@@ -34,7 +34,7 @@ The depth-first search algorithm for maze generation starts at a random cell wit
 
 The process continues until all cells are visited, resulting in a maze with intricate paths and dead ends.
 
-Turtle Graphics Setup
+### Turtle Graphics Setup
 
 ---------------------
 
@@ -46,13 +46,13 @@ The Turtle graphics environment is set up with the following configurations:
 
 -   A background color is chosen for a visually appealing display.
 
-Customization (Optional)
+### Customization (Optional)
 
 ------------------------
 
 The script allows for additional customization, such as changing the starting point or incorporating different colors for aesthetic purposes. Feel free to experiment with these parameters to create unique and visually interesting mazes.
 
-Running the Script
+### Running the Script
 
 ------------------
 
